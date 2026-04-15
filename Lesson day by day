@@ -1531,5 +1531,53 @@ CHUA PART 1: -------------------------------------------------------------------
 - disappearing habitats : shopping center + suppression of wildfires = other plants 
 ----------------------------------------------------------------------------------------------
 13/4: Reading 
-TEST 709 PART 2: 
-1, 
+TEST 709 PART 2: REMOVING UNWANTED NOISE
+1, The problem with current technology
+Context: noisy restaurants, busy roads, windy days --> intense frustration for hearing impaired.
+UK statistics: 10 million suffer from hearing difficulties.
+Complaint: hearing aids fail to filter background noise --> interferes with understanding.
+Consequence: 6 million in UK don't use devices due to poor performance in noise.
+
+2, Dr. Richard Turner’s innovation
+Belief: filtering out troublesome sounds is becoming a possibility.
+System: identifies distracting noise and ‘rubs it out’ --> focus on specific voices.
+Targets: elderly population + patients with cochlear implants (dead auditory hair cells).
+Goal: overcome limitations that current implanted devices still suffer from.
+
+3, the experience of sound recognition
+Turner: fascinated by everyday noises → rain, fire, voices, wind → each sound has distinct patterns
+observed: no two rain sounds are identical → arrangement of droplets always changes
+however: sounds of the same type share statistical similarities
+conclusion: brain groups sounds based on shared characteristics → distinguishes types of noise
+
+4, How the system works
+Turner and colleagues: analysed sound mathematically → built algorithms mimicking the brain
+system: can be trained using machine learning → learns to recognise new sounds
+key point: only a small set of statistics is needed to describe many sounds
+result: system can distinguish speech from other sounds → important for sound recognition
+
+5, Applications and future devices
+Turner: can remove background noise → deliver clearer sound to listeners → improve perception in difficult environments
+idea: future devices will have multiple modes → adapt to situations like car/train, noisy party/restaurant, outdoor windy weather
+feature: system intelligently selects the most suitable mode → based on characteristics of incoming sound
+
+6, Intelligent hearing devices
+Turner: developing technology → foundation for intelligent hearing devices
+users: can override automatic mode → choose which noises to remove
+control: possible via mobile phone interface → wireless communication
+development: need ~2 more years → simulate sound-cleaning modifications
+future plan: collaborate with hearing device companies → integrate machine learning into devices
+
+7,Benefits for tinnitus sufferers
+tinnitus: constant ringing in the ears → causes discomfort
+current solution: environmental sound generators → limited choices (stream, waves, leaves)
+new technology: allows personalised sound selection → better distraction from tinnitus
+result: improved comfort → more effective relief for patients
+
+8, Wider applications of the technology
+helps hearing impaired → clearer listening experience
+improves phone calls → reduces noise in crowded environments
+useful for video-sharing → removes unwanted background sounds
+example: isolate speech from traffic or wind → make videos easier to understand
+feature: users can de-noise videos during upload → better audio quality
+-----------------------------------------------------------------------------------------------------------------------------------
